@@ -2,7 +2,8 @@
 ![nasa shuttle'](img/nasa-7Cz6bWjdlDs-unsplash.jpg)
 # Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ### Welcome to my Github account
-i am parsa dehghani and im a Fast learner and a curios person im good at c++ and python and know c# html and css and on the game dev side i work with ue4 & ue5 and im currently studying at [Khorasgan university](http://en.isfahan.iau.ir/)  
+Hi I'm Parsa Dehghani and I'm a Fast learner and a curios person, I'm good at C++, python and know C#, HTML & CSS.
+On the game dev side I work with UE4 & UE5 and I'm currently studying at [Khorasgan university](http://en.isfahan.iau.ir/)
 
 ---
 ## my github stats
